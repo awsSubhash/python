@@ -9,7 +9,7 @@ def cpu():
         print("your cpu uses is high")
     else:
         print("your cpu uses is normal")
-    time.sleep(10)
+   
 
 while True:
     cpu()
